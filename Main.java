@@ -29,6 +29,14 @@ public class Main{
 			var3--;
 
 		}
+
+		int var4 = 0;
+
+		while(var4<110){
+			System.out.println(var4);
+			var4++;
+
+		}
 	}
 
 }
