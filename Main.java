@@ -21,6 +21,14 @@ public class Main{
 		System.out.println("");
 		System.out.println("La variable var1 y var2 son:"+(var1)+" y "+(var2));
 		System.out.println("");
+
+		int var3 = 200;
+
+		while(var3>0){
+			System.out.println(var3);
+			var3--;
+
+		}
 	}
 
 }
